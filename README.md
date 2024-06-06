@@ -4,7 +4,7 @@
 This Tool Can View all .xmesh file, and you can select part of Model to hide, save and use Got_Extractor to repackage into Game
 
 帮助
-如果使用这个mod做视频的up主，麻烦提及一下我的B站账号/主页，谢谢~
+如果使用这个mod做视频的up主，麻烦提及一下我的[B站账号/主页](https://space.bilibili.com/8729996)，谢谢~
 
 模型查看器
 
