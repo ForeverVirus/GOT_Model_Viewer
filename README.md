@@ -14,14 +14,14 @@ This Tool Can View all .xmesh file, and you can select part of Model to hide, sa
 
 ## 使用
 
-1.点击Select Folder按钮 选择 *.xmesh 文件所属的文件夹
-2.在搜索框内输入想要搜索的模型文件名，点击搜索按钮进行搜索
-3.在左侧列表中点击选择想要进行查看的模型
-4.鼠标左键按住拖动旋转相机，滚轮缩放镜头
-5.鼠标左键点击模型中的部分后会绿色高光亮起，点击右上角Hide按钮可以对其进行隐藏
-6.右侧列表中为当前已经被隐藏的 模型，点击可恢复显示
-7.修改完成后，右下角Save按钮点击可以进行文件保存
-8.后续就正常使用 GOTExtractor Repackage进游戏即可
+1. 点击Select Folder按钮 选择 *.xmesh 文件所属的文件夹
+2. 在搜索框内输入想要搜索的模型文件名，点击搜索按钮进行搜索
+3. 在左侧列表中点击选择想要进行查看的模型
+4. 鼠标左键按住拖动旋转相机，滚轮缩放镜头
+5. 鼠标左键点击模型中的部分后会绿色高光亮起，点击右上角Hide按钮可以对其进行隐藏
+6. 右侧列表中为当前已经被隐藏的 模型，点击可恢复显示
+7. 修改完成后，右下角Save按钮点击可以进行文件保存
+8. 后续就正常使用 GOTExtractor Repackage进游戏即可
 
 If you don't know how to use, you can check this Description, or you can see the video.
 
