@@ -23,7 +23,7 @@ This Tool Can View all .xmesh file, and you can select part of Model to hide, sa
 7. 修改完成后，右下角Save按钮点击可以进行文件保存
 8. 后续就正常使用 GOTExtractor Repackage进游戏即可
 
-If you don't know how to use, you can check this Description, or you can see the video.
+If you don't know how to use, you can check this Description, or you can see the [video](https://www.youtube.com/watch?v=QJLH_hJceN8).
 
 ## Donate
 
