@@ -46,3 +46,5 @@ View all *.xmesh File, and can select part of Model to hide, save and use GOTExt
 8. Then use the GOTExtractor to repackage into game
 
 Discord: [GhostOfTsushima-modding](https://discord.gg/jB8FCpYn)
+
+Develop By: Unity Engine 2021.3.0f1c1
