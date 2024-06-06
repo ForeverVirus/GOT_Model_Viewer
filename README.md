@@ -1,5 +1,5 @@
 # GOT_Model_Viewer
-这个工具可以让你任意查看游戏内的模型资源，并且选择部分不需要的进行隐藏，保存后可通过GOT_Extractor覆盖进游戏内
+这个工具可以让你任意查看对马岛游戏内的模型资源，并且选择部分不需要的进行隐藏，保存后可通过GOTExtractor覆盖进游戏内
 
 This Tool Can View all .xmesh file, and you can select part of Model to hide, save and use Got_Extractor to repackage into Game
 
@@ -32,7 +32,7 @@ https://www.paypal.com/paypalme/ForeverVirusWu
 
 ## Model Viewer
 
-View all *.xmesh File, and can select part of Model to hide, save and use GOTExtractor to repackage into Game
+View all GhostOfTsushima's *.xmesh File, and can select part of Model to hide, save and use GOTExtractor to repackage into Game
 
 ## Usage
 
