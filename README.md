@@ -36,13 +36,13 @@ View all *.xmesh File, and can select part of Model to hide, save and use GOTExt
 
 ## Usage
 
-1.Click "Select Folder" Button to select a *.xmesh file folder
-2.Input you wanna search *.xmesh file name in search Area, click "Search" button to search
-3.Click a Model in Left Model List
-4.Left Mouse Button drag can rotate camera, Mouse Wheel can zoom in/out camera
-5.Left Mouse Button Click can select a part of model, model will change to green.  then click Right Top "Hide" Button to hide this part
-6.Right List is all you Hide model, Click it can revert this part
-7.When you modify done, you can click Right Down "Save" Button to save current model.
-8.Then use the GOTExtractor to repackage into game
+1. Click "Select Folder" Button to select a *.xmesh file folder
+2. Input you wanna search *.xmesh file name in search Area, click "Search" button to search
+3. Click a Model in Left Model List
+4. Left Mouse Button drag can rotate camera, Mouse Wheel can zoom in/out camera
+5. Left Mouse Button Click can select a part of model, model will change to green.  then click Right Top "Hide" Button to hide this part
+6. Right List is all you Hide model, Click it can revert this part
+7. When you modify done, you can click Right Down "Save" Button to save current model.
+8. Then use the GOTExtractor to repackage into game
 
 Discord: [GhostOfTsushima-modding](https://discord.gg/jB8FCpYn)
