@@ -45,6 +45,4 @@ Right List is all you Hide model, Click it can revert this part
 When you modify done, you can click Right Down "Save" Button to save current model.
 Then use the GOTExtractor to repackage into game
 
-Author By: Virus(云轩)
-
-Discord: GhostOfTsushima-modding
+Discord: [GhostOfTsushima-modding](https://discord.gg/jB8FCpYn)
