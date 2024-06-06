@@ -45,4 +45,5 @@ When you modify done, you can click Right Down "Save" Button to save current mod
 Then use the GOTExtractor to repackage into game
 
 Author By: Virus(云轩)
+
 Discord: GhostOfTsushima-modding
